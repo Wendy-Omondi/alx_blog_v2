@@ -1,0 +1,67 @@
+.fieldset {
+    width: 60%;
+    height: auto;
+    margin-left: 150px;
+}
+.input {
+    height: 30px;
+    width: 80%;
+    margin-top: 16px;
+}
+.desc_input {
+    height: 60px;
+    width: 80%;
+    margin-top: 16px;
+}
+.submit-button {
+    padding: 16px 24px;
+    color: white;
+    background: black;
+    border: transparent;
+    font-size: 20px;
+}
+.reset-button {
+    padding: 16px 24px;
+    color: black;
+    background: transparent;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.article a:link {
+    color: black;
+    display:block;
+    width: 60px;
+    padding: 8px;
+}
+
+.article a:visited{
+    color: white;
+}
+.article a:hover{
+    color: blue;
+}
+.article a:active{
+    color: grey;
+}
+.social-article {
+    position: absolute;
+    margin-left: 20px;
+    width: 10%;
+    height: 75%;
+    float: left;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.icon-img {
+    width: 60px;
+    height: 60px;
+    padding: 16px;
+}
+.contact-aside {
+    width: 50%;
+}
+.contact-img {
+    width: 100%;
+    height: 100%;
+    margin-top: 16px;
+}

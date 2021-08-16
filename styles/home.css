@@ -1,0 +1,22 @@
+.home-body {
+    background: url('../images/summer.png') no-repeat;
+}
+.home-main{
+    flex-direction: column;
+    margin-top: 250px;
+    text-align: center;
+    color: white;
+}
+.read-button {
+    padding: 16px 48px;
+    color: black;
+    background: transparent;
+    border: 2px solid white;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.read-button:hover {
+    background: brown;
+    color: white;
+    border: transparent;
+}

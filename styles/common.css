@@ -1,0 +1,79 @@
+.body {
+    display:flex;
+    flex-direction: column;
+    margin:30px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+.contents {
+    background-color:black;
+    color:white;
+    margin-top: 20px;
+    padding:20px;
+    width: 50%;
+}
+.article{
+    flex: 2;
+    overflow-y: auto;
+}
+.aside{
+    flex: 1;
+    overflow-y:auto;
+    background-color:#D8D8D8;
+}
+.header{
+    flex-direction: row;
+    background-color: brown;
+    height: 80px;
+    overflow: hidden;
+    opacity: 0.5;
+}
+ .list {
+     display: flex;
+     float: right;
+     padding: 16px;
+     margin-top: 8px;
+}
+
+.footer {
+    background-color: brown;
+    color: black;
+}
+a:link{
+    color: white;
+    display:block;
+    width: 60px;
+    padding: 8px;
+    
+}
+
+a:visited{
+    color: white;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color: grey;
+}
+.footer {
+    text-align:center;
+    padding: 10px;
+    margin-top: 200px;
+    color: white;
+}
+.footer-input {
+    width: 50%;
+    height: 40px;
+    padding: 8px;
+}
+.submit-button {
+    padding: 16px 24px;
+    color: white;
+    background: black;
+    border: transparent;
+    font-size: 20px;
+}

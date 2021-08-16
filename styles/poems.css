@@ -1,0 +1,58 @@
+.submit-button {
+    padding: 16px 24px;
+    color: white;
+    background: black;
+    border: transparent;
+    font-size: 20px;
+}
+.input {
+    height: 30px;
+    width: 80%;
+    margin-top: 16px;
+}
+.content {
+    background-color:black;
+    color:white;
+    margin-top: 20px;
+    padding:20px;
+    width: 100%;
+}
+.voice-content {
+    display: flex;
+    background-color:white;
+    color:black;
+    margin-top: 20px;
+    padding:16px;
+    width: 75%;
+    height: 550px;
+}
+.voice-content p {
+    width: 40%;
+    float: left;
+}
+.voice-content img {
+    width: 50%;
+    height: 100%;
+}
+.content-heading {
+    display: inline-block;
+    flex-direction: column;
+    width: 10%
+}
+.poem-aside{
+    position: absolute;
+    flex: 1;
+    width: 25%;
+    height: 80%;
+    overflow-y:auto;
+    background-color: white;
+    margin-left: 970px;
+    margin-top: 35px;
+    z-index: 1;
+    padding: 8px;
+
+}
+.poem-article {
+    display: flex;
+    overflow-y:auto;
+}
