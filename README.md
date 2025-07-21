@@ -20,7 +20,7 @@ There is no backend or database integration — this is strictly a front-end UI 
 
 - HTML5
 - CSS3
-- (Optional placeholder for future JavaScript)
+- JavaScript
 
 ## 🧪 How to Use
 
@@ -29,7 +29,7 @@ There is no backend or database integration — this is strictly a front-end UI 
 git clone https://github.com/Wendy-Omondi/alx_blog_v2.git
 cd alx_blog_v2
 ```
-2. Open index.html in your browser:
+2. Open home.html in your browser:
 
 ## 📸 Screenshots
 
