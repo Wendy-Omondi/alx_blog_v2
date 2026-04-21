@@ -1,5 +1,5 @@
 .home-body {
-    background: url('https://unsplash.com/photos/black-and-silver-fountain-pen-hjwKMkehBco') no-repeat;
+    background-image: url('https://unsplash.com/photos/black-and-silver-fountain-pen-hjwKMkehBco') no-repeat;
 }
 .home-main{
     flex-direction: column;
